@@ -1,0 +1,28 @@
+{
+    "Pergunta 1": {
+        "pergunta": "PiPiPi PoPoPo",
+        "respostas": {"a": "Pi", "b": "PiPi", "c": "PI", "d": "pi", "e": "Po"},
+        "resposta_certa": "a"
+    },
+    "Pergunta 2": {
+        "pergunta": "PiPiPi PoPoPo",
+        "respostas": {"a": "Pi", "b": "PiPi", "c": "PI", "d": "pi", "e": "Po"},
+        "resposta_certa": "b"
+    },
+    "Pergunta 3": {
+            "pergunta": "PiPiPi PoPoPo",
+            "respostas": {"a": "Pi", "b": "PiPi", "c": "PI", "d": "pi", "e": "Po"},
+            "resposta_certa": "c"
+    },
+    "Pergunta 4": {
+         "pergunta": "PiPiPi PoPoPo",
+        "respostas": {"a": "Pi", "b": "PiPi", "c": "PI", "d": "pi", "e": "Po"},
+        "resposta_certa": "d"
+    },
+    "Pergunta 5": {
+        "pergunta": "PiPiPi PoPoPo",
+        "respostas": {"a": "Pi", "b": "PiPi", "c": "PI", "d": "pi", "e": "Po"},
+        "resposta_certa": "e"
+    }
+
+}
