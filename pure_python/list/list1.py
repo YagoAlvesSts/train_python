@@ -1,5 +1,6 @@
 from itertools import zip_longest
 from abc import abstractmethod
+
 class List1:
     def __init__(self) -> None:
         self._cities = ["São Paulo", "Belo Horizonte", "Salvador", "Monte Belo", "Caraíva", "Barreirinhas"]
